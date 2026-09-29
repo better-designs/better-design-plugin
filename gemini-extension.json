@@ -1,6 +1,6 @@
 {
   "name": "better-design",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A design harness for AI coding agents: design systems, design principles, icons and UI review checks from the Better Design MCP server.",
   "mcpServers": {
     "better-design": {

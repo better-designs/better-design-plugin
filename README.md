@@ -9,6 +9,15 @@ A design harness for AI coding agents. This plugin connects your agent to the Be
 - **Review checks.** Accessibility, copy clarity and measured spacing for the screens your agent builds.
 - **Icons you own.** Icon sets returned as React components, with no runtime CDN.
 
+## What this repository holds
+
+This repository holds the plugin files only: the manifests, the MCP server entry and two skills. The Better Design server and its design systems run at [better-design.com](https://better-design.com). Browse the catalog at [better-design.com/design-systems](https://better-design.com/design-systems).
+
+| Skill | What it does |
+| --- | --- |
+| `build-with-better-design` | Chooses a design system with the user, installs it, and builds on it |
+| `review-ui-with-better-design` | Reviews a screen for accessibility, visual design, copy clarity and spacing |
+
 ## Install
 
 | Tool | How |
