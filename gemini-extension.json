@@ -1,0 +1,11 @@
+{
+  "name": "better-design",
+  "version": "1.0.0",
+  "description": "A design harness for AI coding agents: design systems, design principles, icons and UI review checks from the Better Design MCP server.",
+  "mcpServers": {
+    "better-design": {
+      "httpUrl": "https://better-design.com/api/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

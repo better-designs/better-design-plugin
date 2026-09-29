@@ -1,0 +1,19 @@
+{
+  "name": "better-design",
+  "version": "1.0.0",
+  "description": "A design harness for AI coding agents: design systems, design principles, icons and UI review checks from the Better Design MCP server.",
+  "author": {
+    "name": "Better Design",
+    "url": "https://better-design.com"
+  },
+  "homepage": "https://better-design.com",
+  "repository": "https://github.com/better-designs/better-design-plugin",
+  "license": "MIT",
+  "keywords": [
+    "better-design",
+    "better design",
+    "design system",
+    "ui review",
+    "design harness"
+  ]
+}
