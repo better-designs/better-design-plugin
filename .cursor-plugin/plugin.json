@@ -16,5 +16,6 @@
     "ui review",
     "design harness"
   ],
-  "logo": "assets/logo.png"
+  "logo": "assets/logo.png",
+  "mcpServers": "./.cursor-plugin/mcp.json"
 }
