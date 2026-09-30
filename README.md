@@ -23,7 +23,9 @@ This repository holds the plugin files only: the manifests, the MCP server entry
 | Tool | How |
 | --- | --- |
 | Gemini CLI | `gemini extensions install https://github.com/better-designs/better-design-plugin` |
-| Claude Code | `claude mcp add --transport http better-design https://better-design.com/api/mcp` |
+| Claude Code | `/plugin marketplace add better-designs/better-design-plugin`, then `/plugin install better-design@better-design` |
+| Claude Code, MCP only | `claude mcp add --transport http better-design https://better-design.com/api/mcp` |
+| Any skills client | `npx skills add better-designs/better-design-plugin` |
 | Any MCP client | Add the remote server `https://better-design.com/api/mcp` |
 
 The first connection opens a Better Design sign-in. A free account works.

@@ -1,0 +1,19 @@
+{
+  "name": "better-design",
+  "owner": {
+    "name": "Better Design",
+    "email": "info@better-design.com"
+  },
+  "metadata": {
+    "description": "The Better Design plugin: a design harness for AI coding agents."
+  },
+  "plugins": [
+    {
+      "name": "better-design",
+      "source": "./",
+      "description": "A design harness for AI coding agents: design systems, design principles, icons and UI review checks from the Better Design MCP server.",
+      "category": "design",
+      "homepage": "https://better-design.com"
+    }
+  ]
+}
