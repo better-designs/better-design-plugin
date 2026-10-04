@@ -8,6 +8,10 @@
   },
   "homepage": "https://better-design.com",
   "repository": "https://github.com/better-designs/better-design-plugin",
+  "documentationUrl": "https://github.com/better-designs/better-design-plugin#readme",
+  "supportUrl": "https://github.com/better-designs/better-design-plugin/issues",
+  "privacyPolicyUrl": "https://better-design.com/privacy",
+  "termsOfServiceUrl": "https://better-design.com/terms",
   "license": "MIT",
   "keywords": [
     "better-design",
