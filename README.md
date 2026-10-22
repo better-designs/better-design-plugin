@@ -22,13 +22,16 @@ This repository holds the plugin files only: the manifests, the MCP server entry
 
 | Tool | How |
 | --- | --- |
+| Any terminal agent, no account | `npx better-design` |
 | Gemini CLI | `gemini extensions install https://github.com/better-designs/better-design-plugin` |
 | Claude Code | `/plugin marketplace add better-designs/better-design-plugin`, then `/plugin install better-design@better-design` |
 | Claude Code, MCP only | `claude mcp add --transport http better-design https://better-design.com/api/mcp` |
 | Any skills client | `npx skills add better-designs/better-design-plugin` |
 | Any MCP client | Add the remote server `https://better-design.com/api/mcp` |
 
-The first connection opens a Better Design sign-in. A free account works.
+`npx better-design` needs no account. It connects Better Design to your coding tools and creates a free key with a small allowance. When the allowance runs out, the agent gives you a claim link that moves the key onto a free account.
+
+Every other route opens a Better Design sign-in on the first connection. A free account works.
 
 ## Privacy
 
